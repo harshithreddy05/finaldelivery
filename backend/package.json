@@ -4,10 +4,11 @@
   "description": "In-memory backend for delivery slot booking",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js",
+    "dev": "node index.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.4"
+    "cors": "^2.8.6",
+    "express": "^4.22.2"
   }
 }

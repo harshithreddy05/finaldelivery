@@ -6,7 +6,7 @@ import AdminPanel from './components/AdminPanel';
 import AdminLogin from './components/AdminLogin';
 import RecommendationCard from './components/RecommendationCard';
 
-const API_BASE = 'http://localhost:4000';
+const API_BASE = import.meta.env.VITE_API_BASE ?? '/api';
 const STORAGE_KEYS = {
   slots: 'dsbs_cached_slots',
   history: 'dsbs_cached_history',
