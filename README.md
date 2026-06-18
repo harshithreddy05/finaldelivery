@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Delivery Slot Booking System
 
 A modern responsive full-stack web application for booking delivery slots. Built with React, Tailwind CSS, Node.js, and Express.
@@ -121,3 +122,6 @@ This project was scaffolded and refined with AI assistance. AI helped plan the f
 1. **Dashboard Overview**: A gradient header with summary cards for total slots, capacity, bookings, and available slots.
 2. **Slot Grid**: Responsive cards showing slot time, capacity, booked count, available count, progress bar, and booking action.
 3. **Notification Banner**: Toast messages for successful bookings and full-slot suggestions.
+=======
+# finaldelivery
+>>>>>>> c43611cfb01442c4a2c253d45387b1a8e61f0154
